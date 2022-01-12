@@ -57,8 +57,14 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=rashidya&theme=algolia&background=0d1117&hide_border=true" />
   <img src="https://activity-graph.herokuapp.com/graph?username=rashidya&theme=react-dark"/>
 </div>
+<div align="center">
 
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
+<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px" align="center"> <br>
+
+## For More Information, Please Check Out or Connect Me Via
+</div>
+
+
 <p align="center">
   <a href="mailto:rashidya123@outlook.com" >
     <img align="center" alt="TienHuynh-TN | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
