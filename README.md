@@ -32,13 +32,13 @@
 
 
 <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="400" align="right"/>
-- :credit_card: My full name is **G.L.Rashmi Navodya** <br>
-- :school: I'm currently a 1st year student at **Institute of Java Software Engineering** <br>
-- :books: My major is **Software Engineering** <br>
-- :earth_asia: I live in **Galle, Sri Lanka** <br>
-- :sweat_smile: I'm a newbie in coding, know C and Java language. Now I'm focus on learning Web Development. <br>
-- :monocle_face: I'm interested in coding, sleeping,reading and watching film <br>
-- :sunglasses: My quote is ***"The Best is Yet to Be -Never Give Up"*** <br>
+- :credit_card: My full name is <b>G.L.Rashmi Navodya</b> <br>
+- :school: I'm currently a 1st year student at <b>Institute of Java Software Engineering</b> <br>
+- :books: My major is <b>Software Engineering</b> <br>
+- :earth_asia: I live in <b>Galle, Sri Lanka</b> <br>
+- :sweat_smile: I'm a newbie in coding, know <b>C</b> and <b>Java</b> language. Now I'm focus on learning Web Development. <br>
+- :monocle_face: I'm interested in <b>coding, sleeping,reading</b> and <b>watching film</b> <br>
+- :sunglasses: My quote is <b>"The Best is Yet to Be -Never Give Up"</b> <br>
 - :ok_hand: Fun fact: have problem :point_right: sleep, happy :point_right: sleep, sad :point_right: sleep ~~ everything :point_right: sleep <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Languages and Tools
