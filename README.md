@@ -1,12 +1,21 @@
 ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/rashidya?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/rashidya?style=social"> &nbsp;&nbsp; <img alt="rashidya | Count Views" src="https://enemo786q3svfle.m.pipedream.net" />
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&color=c4c4c4&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi!+I'm+Rashmi+Liyanage+;Welcome+to+My+Profile!" alt="Title"></img>
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/rashidya?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/rashidya?style=social"> &nbsp;&nbsp; <img alt="rashidya | Count Views" src="https://enemo786q3svfle.m.pipedream.net" />
 </div>
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&color=c4c4c4&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi!+I'm+Rashmi+Liyanage+;Welcome+to+My+Profile!"
+         alt="Title"/>
+</div>
+<h3 align="center">Software Engineer | Technical Content Writer | Data Analysis Enthusiast</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/aksia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
+<a href="https://www.facebook.com/akash.chowrasia.908/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="akash chowrasia" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@chowrasia_akash1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@chowrasia_akash1" height="30" width="40" /></a>
+<a href="https://leetcode.com/Akash_Chowrasia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="akash_chowrasia" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/akash_chowrasia/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="akash_chowrasia" height="30" width="40" /></a>
+ <a href = "mailto: chowrasia.akash08@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+</p>
 
-
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
 
  <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="400" align="right"/>
 - :credit_card: My full name is **G.L.Rashmi**
