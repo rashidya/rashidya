@@ -62,7 +62,7 @@
 <div align="center">
 <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px" align="center"> <br>
 
-## For More Information, Please Check Out or Connect Me Via
+## For More Information, Please Check Out or Contact Me Via
 </div>
 
 
