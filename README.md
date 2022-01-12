@@ -1,8 +1,10 @@
 ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
 <div align="center">
+
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/rashidya?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/rashidya?style=social"> &nbsp;&nbsp; <img alt="rashidya | Count Views" src="https://enemo786q3svfle.m.pipedream.net" />
 </div>
 <div align="center">
+<br>
     <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&color=66bb6a&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi!+I'm+Rashmi+Liyanage+;Welcome+to+My+Profile!"
          alt="Title"/>
 </div>
@@ -31,7 +33,7 @@
 </p>
 
 
-<img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="400" align="right"/>
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="400" align="right"/>
 - :credit_card: My full name is <b>G.L.Rashmi Navodya</b> <br>
 - :school: I'm currently a 1st year student at <b>Institute of Java Software Engineering</b> <br>
 - :books: My major is <b>Software Engineering</b> <br>
