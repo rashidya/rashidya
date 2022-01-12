@@ -3,7 +3,7 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/rashidya?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/rashidya?style=social"> &nbsp;&nbsp; <img alt="rashidya | Count Views" src="https://enemo786q3svfle.m.pipedream.net" />
 </div>
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&color=c4c4c4&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi!+I'm+Rashmi+Liyanage+;Welcome+to+My+Profile!"
+    <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&color=66bb6a&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi!+I'm+Rashmi+Liyanage+;Welcome+to+My+Profile!"
          alt="Title"/>
 </div>
 <hr>
@@ -31,15 +31,15 @@
 </p>
 
 
- <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="400" align="right"/>
-- :credit_card: My full name is **G.L.Rashmi**
-- :school: I'm currently 3rd year student at **FPT University - Ho Chi Minh City Campus**
-- :books: My major is **Software Engineering**
-- :earth_asia: I'm living now in **Ho Chi Minh City, Viet Nam**
-- :sweat_smile: I'm a newbie in coding, know C and Java language. Now I'm focus on learning Web Development.
-- :monocle_face: I'm interested in coding, sleeping, and watching film
-- :sunglasses: My quote is ***"It's never too late - never too late to start over, never too late to be happy"***
-- :ok_hand: Fun fact: have problem :point_right: sleep, happy :point_right: sleep, sad :point_right: sleep ~~ everything :point_right: sleep
+<img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="400" align="right"/>
+- :credit_card: My full name is **G.L.Rashmi Navodya** <br>
+- :school: I'm currently a 1st year student at **Institute of Java Software Engineering** <br>
+- :books: My major is **Software Engineering** <br>
+- :earth_asia: I live in **Galle, Sri Lanka** <br>
+- :sweat_smile: I'm a newbie in coding, know C and Java language. Now I'm focus on learning Web Development. <br>
+- :monocle_face: I'm interested in coding, sleeping,reading and watching film <br>
+- :sunglasses: My quote is ***"The Best is Yet to Be -Never Give Up"*** <br>
+- :ok_hand: Fun fact: have problem :point_right: sleep, happy :point_right: sleep, sad :point_right: sleep ~~ everything :point_right: sleep <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Languages and Tools
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
